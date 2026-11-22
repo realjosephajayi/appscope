@@ -42,3 +42,7 @@ Linux distributions with Rust and at least one of `flatpak`, `snap`, `dpkg`, `rp
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+## Implementation
+
+Built with Rust using only the standard library.
