@@ -156,3 +156,5 @@ mod tests {
         assert_eq!(InstallSource::Apt.to_string(), "apt");
     }
 }
+
+// Supports apt, dnf/rpm, pacman, Flatpak, Snap, and binary installs.
