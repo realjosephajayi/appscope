@@ -1,0 +1,13 @@
+[package]
+name = "appscope"
+version = "0.1.0"
+edition = "2021"
+authors = ["Minting Bot"]
+description = "Inspect Linux applications and generate safe uninstall guidance"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/YOUR_USERNAME/appscope"
+keywords = ["linux", "cli", "rust", "package-manager", "system-tools"]
+categories = ["command-line-utilities", "os::linux-apis"]
+
+[dependencies]
